@@ -1,0 +1,14 @@
+[2026-07-29 18:40:01] [INFO] Application started
+[2026-07-29 18:40:02] [DEBUG] Configuration loaded
+[2026-07-29 18:40:05] [INFO] HTTP server listening on port 8080
+[2026-07-29 18:41:12] [WARN] Request took longer than 500 ms
+[2026-07-29 18:41:20] [INFO] User signed in
+[2026-07-29 18:42:01] [ERROR] Database connection failed
+[2026-07-29 18:42:03] [INFO] Retrying database connection
+[2026-07-29 18:42:08] [ERROR] Database connection failed
+[2026-07-29 18:42:12] [INFO] Retrying database connection
+[2026-07-29 18:42:17] [INFO] Database connection restored
+[2026-07-29 18:43:42] [WARN] Request took longer than 500 ms
+[2026-07-29 18:44:05] [INFO] Cache cleanup completed
+This line is intentionally invalid and will be skipped.
+[2026-07-29 18:45:00] [FATAL] Worker process terminated unexpectedly
